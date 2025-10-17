@@ -65,6 +65,27 @@ panels:
     - url: https://your-domain.com
       description: "已备案域名"
 ```
+#### 🔸 方案三：直接访问国外未被墙域名
+
+如果你的面板域名托管在国外，且未被封锁，可以直接配置访问：
+
+```yaml
+panels:
+  your_brand:
+    - url: https://api-overseas.example.com
+      description: "国外未被墙域名"
+```
+
+**适用场景**：
+- 域名托管在海外云服务商（Cloudflare、AWS 等）
+- 域名尚未被列入封锁名单
+- 使用 CDN 加速服务，IP 分散
+
+**优势**：
+- ✅ 无需额外部署中转服务器
+- ✅ 直连访问，延迟最低
+- ✅ 配置简单，维护成本低
+- ✅ HTTPS 证书由正规 CA 签发
 
 #### 🔸 数据混淆与加密
 
