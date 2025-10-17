@@ -1,9 +1,6 @@
 <div align="center">
 
 # FlClash XBoard 版
-
-[![下载量](https://img.shields.io/github/downloads/chen08209/FlClash/total?style=flat-square&logo=github)](https://github.com/chen08209/FlClash/releases/)
-[![最新版本](https://img.shields.io/github/release/chen08209/FlClash/all.svg?style=flat-square)](https://github.com/chen08209/FlClash/releases/)
 [![许可证](https://img.shields.io/github/license/chen08209/FlClash?style=flat-square)](LICENSE)
 
 **基于 FlClash v0.8.85 的多平台代理客户端，深度集成全新 XBoard 面板支持**
@@ -893,11 +890,6 @@ adb shell am broadcast -a com.follow.clash.action.START
 
 如果这个项目对你有帮助，请点击右上角的 ⭐ Star 支持我们！
 
-<p align="center">
-    <a href="https://api.star-history.com/svg?repos=chen08209/FlClash&Date">
-        <img alt="Star History" width="50%" src="https://api.star-history.com/svg?repos=chen08209/FlClash&Date"/>
-    </a>
-</p>
 
 ---
 
